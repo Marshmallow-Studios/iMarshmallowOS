@@ -1,2 +1,3 @@
-# iMarshmallowOS
-Marshmallow OS for the Wii
+# iMarshmallowOS, Marshmallow OS for the Wii
+
+Currently in early develpoment.
